@@ -1,0 +1,6 @@
+# Ignore Windows specific directories
+AppData/
+Local/
+History/
+Microsoft/
+Temporary Internet Files/
